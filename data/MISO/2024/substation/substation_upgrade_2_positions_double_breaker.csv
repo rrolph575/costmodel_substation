@@ -1,0 +1,14 @@
+voltage_kv,69,115,138,161,230,345,500,765
+acres,1.2,1.4,1.5,1.7,1.8,2.3,3.8,4.7
+access_road_miles,0,0,0,0,0,0,0,0
+circuit_breaker,4,4,4,4,4,4,4,4
+disconnect_switches,8,8,8,8,8,8,8,8
+voltage_transformers,2,2,2,2,2,2,2,2
+bus_support,12,12,12,12,12,16,20,24
+deadend_struct,2,2,2,2,2,2,2,2
+control_enclosure,0,0,0,0,0,0,0,0
+relay_panel,4,4,4,4,4,4,4,4
+cable_trench_ft,180,190,200,210,220,240,280,350
+conduit_ft,1800,1900,2000,2100,2200,2400,2800,3500
+control_cable_ft,18000,19000,20000,21000,22000,24000,28000,35000
+validation,4.0,4.6,5.2,5.8,6.8,10.7,15.9,37.3
